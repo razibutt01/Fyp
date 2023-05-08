@@ -5,13 +5,15 @@ This code is a Flask API that serves a PyTorch deep learning model trained to cl
 
 Prerequisites:
 
-Anaconda
-PyTorch
-Flask
-Flask-CORS
-PIL
-NumPy
-OpenCV
+->Anaconda <br/>
+->PyTorch <br/>
+->Flask <br/>
+->Flask-CORS <br/>
+->PIL <br/>
+->NumPy <br/>
+->OpenCV <br/>
+
+
 To run the API:
 
 Ensure that all required packages are installed.
