@@ -19,7 +19,7 @@ To run the API using flask run command:
 • Ensure that all required packages are installed. <br/>
 • Download the code and the trained model file 'model.pkl' to a directory on your computer. <br/>
 • Open the Anaconda Prompt and navigate to the directory containing the code and the model file. <br/>
-• Set the FLASK_APP environment variable by running the command set FLASK_APP=app.py on Windows or export FLASK_APP=app.py on Linux/MacOS. <br/>
+• Set the FLASK_APP environment variable by running the command set FLASK_APP=my_flask_app.py on Windows or export FLASK_APP=my_flask_app.py on Linux/MacOS. <br/>
 • Optionally set the FLASK_ENV environment variable to 'development' to enable debug mode by running the command set FLASK_ENV=development on Windows or export FLASK_ENV=development on Linux/MacOS. <br/>
 • Run the command flask run to start the Flask server. <br/>
 • The API will be accessible at http://localhost:5000/predict. <br/>
